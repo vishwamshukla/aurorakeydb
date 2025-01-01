@@ -1,4 +1,5 @@
-# AuroraKeyDB - Distributed Key-Value Store - Check the project progress here - https://github.com/vishwamshukla/distributed-kvstore
+# AuroraKeyDB - Distributed Key-Value Store 
+- Check the project progress here - https://github.com/vishwamshukla/distributed-kvstore
 
 ## Overview
 
